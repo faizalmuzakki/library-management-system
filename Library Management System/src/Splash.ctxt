@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Splash
+comment1.params=duration
+comment1.target=void\ showSplash(int)
+numComments=2

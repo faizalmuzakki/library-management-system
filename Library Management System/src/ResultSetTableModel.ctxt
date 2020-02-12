@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ResultSetTableModel
+comment0.text=\r\nResultSet\ rows\ and\ columns\ are\ counted\ from\ 1\ and\ JTable\r\nrows\ and\ columns\ are\ counted\ from\ 0.\ When\ processing\r\nResultSet\ rows\ or\ columns\ for\ use\ in\ a\ JTable,\ it\ is\r\nnecessary\ to\ add\ 1\ to\ the\ row\ or\ column\ number\ to\ manipulate\r\nthe\ appropriate\ ResultSet\ column\ (i.e.,\ JTable\ column\ 0\ is\r\nResultSet\ column\ 1\ and\ JTable\ row\ 0\ is\ ResultSet\ row\ 1)\r\n
+comment1.params=driver\ url\ query
+comment1.target=ResultSetTableModel(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=column
+comment2.target=java.lang.Class\ getColumnClass(int)
+comment3.params=
+comment3.target=int\ getColumnCount()
+comment4.params=column
+comment4.target=java.lang.String\ getColumnName(int)
+comment5.params=
+comment5.target=int\ getRowCount()
+comment6.params=row\ column
+comment6.target=java.lang.Object\ getValueAt(int,\ int)
+comment7.params=query
+comment7.target=void\ setQuery(java.lang.String)
+comment8.params=
+comment8.target=void\ disconnectFromDatabase()
+numComments=9

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=EditBooks
+comment0.text=\r\nA\ public\ class\r\n
+comment1.params=
+comment1.target=boolean\ isCorrect()
+comment2.params=
+comment2.target=boolean\ isEditCorrect()
+comment3.params=
+comment3.target=void\ clearTextField()
+comment4.params=
+comment4.target=EditBooks()
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ run()
+comment7.params=ae
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=void\ run()
+comment9.params=ae
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

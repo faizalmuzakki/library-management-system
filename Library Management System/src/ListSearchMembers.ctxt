@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ListSearchMembers
+comment0.text=\r\nA\ public\ class\r\n
+comment1.params=query
+comment1.target=ListSearchMembers(java.lang.String)
+comment2.params=ae
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ run()
+numComments=4

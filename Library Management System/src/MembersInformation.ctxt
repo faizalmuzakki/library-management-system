@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MembersInformation
+comment0.text=\r\nA\ public\ class\r\n
+comment1.params=
+comment1.target=boolean\ isPasswordCorrect()
+comment2.params=
+comment2.target=boolean\ isCorrect()
+comment3.params=
+comment3.target=boolean\ isEditCorrect()
+comment4.params=
+comment4.target=void\ clearTextField()
+comment5.params=
+comment5.target=MembersInformation()
+comment6.params=ae
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

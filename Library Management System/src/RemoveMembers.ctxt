@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RemoveMembers
+comment0.text=\r\nA\ public\ class\r\n
+comment1.params=
+comment1.target=boolean\ isCorrect()
+comment2.params=
+comment2.target=RemoveMembers()
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ run()
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
